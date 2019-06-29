@@ -53,10 +53,10 @@ Tried to Find the relationship between fractal dimension and network vulnerabili
 <hr style="height:3px;border:none;border-top:3px ridge black;" />
 
 <ul>
-	<li>National scholarship (1.5%)    Sep 2018</li>
-	<li>Outstanding student scholarship (5%)    Sep 2017 & Sep 2018</li>
-	<li>Enterprise scholarship from China Resources Corporation (0.5%)    Sep 2017</li>
-	<li>Provincial award of Mathematical Contest in Modeling (Responsible for modeling and programming)    Nov 2018</li>
-	<li>Second prize of MATLAB Programming Competition    May 2017</li>
-	<li>Second prize of National Spoken English Competition    Dec 2017</li>
+	<li>National scholarship (1.5%) &nbsp;   Sep 2018</li>
+	<li>Outstanding student scholarship (5%) &nbsp;   Sep 2017 & Sep 2018</li>
+	<li>Enterprise scholarship from China Resources Corporation (0.5%) &nbsp;   Sep 2017</li>
+	<li>Provincial award of Mathematical Contest in Modeling (Responsible for modeling and programming) &nbsp;   Nov 2018</li>
+	<li>Second prize of MATLAB Programming Competition  &nbsp;  May 2017</li>
+	<li>Second prize of National Spoken English Competition  &nbsp;  Dec 2017</li>
 </ul>
