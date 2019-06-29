@@ -4,7 +4,6 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<br /> 
 <h3>EDUCATION</h3>
 <hr />
 
@@ -13,29 +12,26 @@ layout: page
 <h5>Main course and score</h5>
 <p>Probability theory and Mathematical statistics (98/100), Discrete Mathematics (100/100)
 Programming (C&C++) (94/100), Digital Logic (97/100)</p>
-<br /> 
 <h4>Sophia University summer school</h4>
 <p>Summer school in Japan for environmental theme study</p>
 
-<br /> 
 <h3>RESEARCH EXPERIENCES</h3>
 <hr />
 
 <h4>Assistant research on text sentiment analysis subject Jan 2019-Now</h4>
-<h6>adviser: Associate Professor Xiang Ao, Institute of Computing Technology, CAS</h6>
+<h5>adviser: Associate Professor Xiang Ao, Institute of Computing Technology, CAS</h5>
 <p>Completed the paper “Aspect-Level Sentiment Analysis via Multi-Layer Capsule Networks with Aspect Reinforcement” as the
 second author, and submitted at the ijcai19 conference, mainly responsible for the work of the experimental part.
 Learned a lot of the basics of NLP and now working on Chinese text analysis using BERT and Capsule Networks.</p>
 <h4>A program of image clustering using spectral clustering algorithm Feb 2018-Mar 2018</h4>
-<h6>adviser: Associate Professor Jie Sheng, UESTC</h6>
+<h5>adviser: Associate Professor Jie Sheng, UESTC</h5>
 <p>Collected much data to measure the pros and cons of various unsupervised learning algorithms.
 Developed a GUI-containing program that implements spectral clustering and K-means methods, and wrote a long research report.</p>
 <h4>The impact of the fractal dimension of complex networks on its vulnerability Feb 2018-Dec 2018</h4>
-<h6>adviser: Professor Yong Deng, Southwest University</h6>
+<h5>adviser: Professor Yong Deng, Southwest University</h5>
 <p>Calculated the fractal dimension of various networks in different ways.
 Tried to Find the relationship between fractal dimension and network vulnerability, and propose a more effective attack method</p>
 
-<br /> 
 <h3>SKILLS</h3>
 <hr />
 <ul class="skill-list">
@@ -51,7 +47,6 @@ Tried to Find the relationship between fractal dimension and network vulnerabili
 	<li>Guitar</li>
 </ul>
 
-<br /> 
 <h3>AWARDS</h3>
 <hr />
 <ul>
