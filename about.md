@@ -14,7 +14,7 @@ layout: page
 <p>Probability theory and Mathematical statistics (98/100), Discrete Mathematics (100/100)
 Programming (C&C++) (94/100), Digital Logic (97/100)</p>
 <h5>Sophia University summer school</h5>
-<p>Summer school in Japan for environmental theme stud</p>
+<p>Summer school in Japan for environmental theme study</p>
 
 <br /> 
 <h3>RESEARCH EXPERIENCES</h3>
