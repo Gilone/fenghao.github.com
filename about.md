@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <h3>EDUCATION</h3>
-<hr style="height:5px;border:none;border-top:5px ridge green;" />
+<hr style="height:3px;border:none;border-top:3px ridge black;" />
 
 
 <h4>School of Computer Science and Engineering, University of Electronic Science and Technology of China</h4>
@@ -17,7 +17,7 @@ Programming (C&C++) (94/100), Digital Logic (97/100)</p>
 <p>Summer school in Japan for environmental theme study</p>
 
 <h3>RESEARCH EXPERIENCES</h3>
-<hr style="height:5px;border:none;border-top:5px ridge green;" />
+<hr style="height:3px;border:none;border-top:3px ridge black;" />
 
 <h4>Assistant research on text sentiment analysis subject Jan 2019-Now</h4>
 <h5>adviser: Associate Professor Xiang Ao, Institute of Computing Technology, CAS</h5>
@@ -34,7 +34,7 @@ Developed a GUI-containing program that implements spectral clustering and K-mea
 Tried to Find the relationship between fractal dimension and network vulnerability, and propose a more effective attack method</p>
 
 <h3>SKILLS</h3>
-<hr style="height:5px;border:none;border-top:5px ridge green;" />
+<hr style="height:3px;border:none;border-top:3px ridge black;" />
 
 <ul class="skill-list">
 	<li>Skilled Python</li>
@@ -50,13 +50,13 @@ Tried to Find the relationship between fractal dimension and network vulnerabili
 </ul>
 
 <h3>AWARDS</h3>
-<hr style="height:5px;border:none;border-top:5px ridge green;" />
+<hr style="height:3px;border:none;border-top:3px ridge black;" />
 
 <ul>
-	<li>National scholarship (1.5%)	Sep 2018</li>
-	<li>Outstanding student scholarship (5%) Sep 2017 & Sep 2018</li>
-	<li>Enterprise scholarship from China Resources Corporation (0.5%) 	Sep 2017</li>
-	<li>Provincial award of Mathematical Contest in Modeling (Responsible for modeling and programming) Nov 2018</li>
-	<li>Second prize of MATLAB Programming Competition 	May 2017</li>
-	<li>Second prize of National Spoken English Competition Dec 2017</li>
+	<li>National scholarship (1.5%)    Sep 2018</li>
+	<li>Outstanding student scholarship (5%)    Sep 2017 & Sep 2018</li>
+	<li>Enterprise scholarship from China Resources Corporation (0.5%)    Sep 2017</li>
+	<li>Provincial award of Mathematical Contest in Modeling (Responsible for modeling and programming)    Nov 2018</li>
+	<li>Second prize of MATLAB Programming Competition    May 2017</li>
+	<li>Second prize of National Spoken English Competition    Dec 2017</li>
 </ul>
