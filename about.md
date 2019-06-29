@@ -36,7 +36,7 @@ Developed a GUI-containing program that implements spectral clustering and K-mea
 Tried to Find the relationship between fractal dimension and network vulnerability, and propose a more effective attack method</p>
 
 <br /> 
-<h3>Skills</h3>
+<h3>SKILLS</h3>
 <hr />
 <ul class="skill-list">
 	<li>Skilled Python</li>
