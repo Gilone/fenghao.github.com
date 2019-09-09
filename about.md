@@ -11,8 +11,7 @@ layout: page
 <h4>Chinese Academy of Sciences | Research Program | 01/2019-Present<h4>
 <h4>Sophia University, Japan | Exchange Program | 07/2017<h4>
 <h4>University of Electronic Science and Technology of China (UESTC) | 09/2016-Present<h4>
-<p>Bachelor of Computer Science, Overall GPA: 3.99/4 (93.3), Major GPA: 4/4, Rank: 1/243 Aug 2016- Jul 2020</p>
-	
+<p>Bachelor of Computer Science, Overall GPA: 3.99/4 (93.3), Rank: 1/243 | Aug 2016- Jul 2020</p>
 
 <h3>RESEARCH EXPERIENCES</h3>
 <hr style="height:3px;border:none;border-top:3px ridge black;" />
