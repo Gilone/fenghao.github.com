@@ -52,31 +52,31 @@ layout: page
 <hr style="height:3px;border:none;border-top:3px ridge black;" />
 
 <h4>GUI Program for Picture Clustering based on Spectral Clustering and K-means | Jun 2018</h4>
-<p>-Analyzed and compared K-means and Spectral Clustering; proposed solutions to possible problems in design and parameter
-<br>-Implemented a program using Python and modules including PyQt, Scipy, and Pillow
-<br>-Enhanced the portability of the program using Pyinstaller
-<br>-Collected data to measure the pros and cons of various unsupervised learning algorithms, and generated a research report</p>
+<p>--Analyzed and compared K-means and Spectral Clustering; proposed solutions to possible problems in design and parameter
+<br>--Implemented a program using Python and modules including PyQt, Scipy, and Pillow
+<br>--Enhanced the portability of the program using Pyinstaller
+<br>--Collected data to measure the pros and cons of various unsupervised learning algorithms, and generated a research report</p>
 
 <h4>Link Prediction Project | Sep 2017</h4>
-<p>-Analyzed the work of constructing a "complete" coupling network using the meta-propagation rules in the coupling network to amplify the hidden features from the information of two links
-<br>-Proposed a Coupled Factor Graph Model including meta-paths as the connection characteristic of structures</p>
+<p>--Analyzed the work of constructing a "complete" coupling network using the meta-propagation rules in the coupling network to amplify the hidden features from the information of two links
+<br>--Proposed a Coupled Factor Graph Model including meta-paths as the connection characteristic of structures</p>
 
 <h4>Research on the Approximate Algorithm of the Vertex Cover Problem | Sep 2017</h4>
-<p>-Implemented two vertex cover algorithms (put the vertex with the largest degree and the two points of one edge) in the solution set
-<br>-Compared the effects of these two algorithms in various situations in detail , showing that under the constructed special graph structure, the approximation algorithm will be stronger than the heuristic greedy algorithm</p>
+<p>--Implemented two vertex cover algorithms (put the vertex with the largest degree and the two points of one edge) in the solution set
+<br>--Compared the effects of these two algorithms in various situations in detail , showing that under the constructed special graph structure, the approximation algorithm will be stronger than the heuristic greedy algorithm</p>
 
 <h4>“WordAssistant”-the Android Vocabulary Book based on Java | May 2019</h4>
-<p>-Adopted the API and Retrofit network request, GreenDAO3.0 local database, CardView card layout, and CBDDialog module
-<br>-Combined them with RxJava and RxAndroid responsive programming</p>
+<p>--Adopted the API and Retrofit network request, GreenDAO3.0 local database, CardView card layout, and CBDDialog module
+<br>--Combined them with RxJava and RxAndroid responsive programming</p>
 
 <h4>Object-oriented Game Design | May 2017</h4>
-<p>-Utilized C++ language and the third-party graphics library to implement a dodgeball game and a tower defence game</p>
+<p>--Utilized C++ language and the third-party graphics library to implement a dodgeball game and a tower defence game</p>
 
 <h4>Design and Implementation of Pipeline CPU | Jun 2019</h4>
-<p>-Utilized Verilog to design the pipeline based on the implementation of single-cycle CPU, simulated, adjusted the codes for modules</p>
+<p>--Utilized Verilog to design the pipeline based on the implementation of single-cycle CPU, simulated, adjusted the codes for modules</p>
 
 <h4>Comprehensive Experiments in C Language and Data Structure | May 2017</h4>
-<p>-Utilized the stack and A* Search Algorithm to complete the search of maze circuit; utilized the Huffman Coding Algorithm to compress and extract files; built a music file management system; implemented the Joseph game using circular linked list; designed a routing protocol to implement network transmission function, etc</p>
+<p>--Utilized the stack and A* Search Algorithm to complete the search of maze circuit; utilized the Huffman Coding Algorithm to compress and extract files; built a music file management system; implemented the Joseph game using circular linked list; designed a routing protocol to implement network transmission function, etc</p>
 
 <h3>LEADERSHIP IN COMPETITION</h3>
 <hr style="height:3px;border:none;border-top:3px ridge black;" />
@@ -84,23 +84,23 @@ layout: page
 <h4>UESTC training team for National Mathematical Contest in Modeling | Oct 2017-Oct 2018</h4>
 <h5>Team Leader, awarded the Provincial 3rd Prize of National Contest in Mathematical Modeling for College Students</h5>
 <h5>Project 1: Design pricing for moneymaking applications based on dual-objective optimization</h5>
-<p>-Applied fuction corrcoef in Matlab to calculate the relationship between impact factors; utilized the method of analyzing correlation
-<br>-Established a dual-objective optimization model for the optimal total price and task completion
-<br>-Utilized the power function to simulate the relationship between competition and pricing</p>
+<p>--Applied fuction corrcoef in Matlab to calculate the relationship between impact factors; utilized the method of analyzing correlation
+<br>--Established a dual-objective optimization model for the optimal total price and task completion
+<br>--Utilized the power function to simulate the relationship between competition and pricing</p>
 
 <h5>Project 2: Sun shadow location model based on simulated annealing algorithm</h5>
-<p>-Established a single-objective optimization model based on least squares; employed the simulated annealing algorithm to solve it</p>
+<p>--Established a single-objective optimization model based on least squares; employed the simulated annealing algorithm to solve it</p>
 
 <h5>Project 3: Analyzing the competition results of a famous athlete Lin Dan and predicting the upcoming result</h5>  
-<p>-Preprocessed data; analyzed technical indexes by Spectral Clustering
-<br>-Analyzed the functional relation of competition result and 39 technical variables based on regression analysis</p>
+<p>--Preprocessed data; analyzed technical indexes by Spectral Clustering
+<br>--Analyzed the functional relation of competition result and 39 technical variables based on regression analysis</p>
 
 <h5>Project 4: A dynamic scheduling model using the Genetic Algorithm</h5>
-<p>-Applied the Genetic Algorithm with dual codes and constraints in the evolutionary step; generated the optimal scheduling sequence</p>
+<p>--Applied the Genetic Algorithm with dual codes and constraints in the evolutionary step; generated the optimal scheduling sequence</p>
 
 <h5>Project 5: The influence of the opening of the community on the surrounding roads</h5>
-<p>-Utilized the simulation modelling method based on VISSIM to established a model simulating traffic conditions
-<br>-Conducted quantitative measurement about the impact of three residential types on the traffic</p> 
+<p>--Utilized the simulation modelling method based on VISSIM to established a model simulating traffic conditions
+<br>--Conducted quantitative measurement about the impact of three residential types on the traffic</p> 
 
 <h3>SKILLS</h3>
 <hr style="height:3px;border:none;border-top:3px ridge black;" />
@@ -134,10 +134,10 @@ layout: page
 <hr style="height:3px;border:none;border-top:3px ridge black;" />
 
 <h4>Volunteered in the recruitment activity hosted by UESTC | Awarded “Excellent Volunteer” | Sep 2018</h4>
-<p>-Responsible for the support work of 12 enterprises
-<br>-Assisted in preparing the layout of the venue, direction guidance, and process introduction
-<br>-Communicated with HR, discussed with them about the future career direction in data science direction</p>
+<p>--Responsible for the support work of 12 enterprises
+<br>--Assisted in preparing the layout of the venue, direction guidance, and process introduction
+<br>--Communicated with HR, discussed with them about the future career direction in data science direction</p>
 <h4>UESTC “Liren” Class | Apr 2017-Apr 2019</h4>
-<p>-Participated in lectures(AI and Zero-shot Learning by John Hopcroft, Cognitive Science and Linguistic by Douglas Hofstadter, etc.)
-<br>-Led a team in the Ginkgo Yellow Innovation and Entrepreneurship Competition; designed a classroom reservation system</p>
+<p>--Participated in lectures(AI and Zero-shot Learning by John Hopcroft, Cognitive Science and Linguistic by Douglas Hofstadter, etc.)
+<br>--Led a team in the Ginkgo Yellow Innovation and Entrepreneurship Competition; designed a classroom reservation system</p>
 <h4>Volunteered in a Public Welfare Campaign for Children with Autism | Apr 2017</h4>
