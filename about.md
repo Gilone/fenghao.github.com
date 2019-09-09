@@ -20,9 +20,9 @@ layout: page
 <h4>School of Computational Science and Engineering, Georgia Tech, US | Jul 2019-Present</h4>
 <h5>Research Fellow, supervised by Assistant Prof. Chao Zhang</h5>
 <h5>Project: Taxonomy Construction </h5>
-<p>Attached a new term into an existing taxonomy, by choosing its most appropriate node from the existing one, as using supervised learning</p>
-<p>Encoded dependency paths which connect two-duples and triples found in the existing taxonomy using a recurrent neural network</p>
-<p>Utilized such information of taxonomy's structure to identify the relations with candidate nodes through a multi-classifier</p>
+<p>Attached a new term into an existing taxonomy, by choosing its most appropriate node from the existing one, as using supervised learning
+<br>Encoded dependency paths which connect two-duples and triples found in the existing taxonomy using a recurrent neural network
+<br>Utilized such information of taxonomy's structure to identify the relations with candidate nodes through a multi-classifier</p>
 
 <h4>Institute of Computing Technology, Chinese Academy of Sciences, China | Jan 2019-Present</h4>
 <h5>Visiting Research Fellow, supervised by Associate Prof. Xiang Ao</h5>
