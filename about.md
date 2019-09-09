@@ -20,7 +20,7 @@ layout: page
 <h4>School of Computational Science and Engineering, Georgia Tech, US | Jul 2019-Present</h4>
 <h5>Research Fellow, supervised by Assistant Prof. Chao Zhang</h5>
 <h5>Project: Taxonomy Construction </h5>
-<p>Attached a new term into an existing taxonomy, by choosing its most appropriate node from the existing one, as using supervised learning.</p>
+<p>Attached a new term into an existing taxonomy, by choosing its most appropriate node from the existing one, as using supervised learning</p>
 <p>Encoded dependency paths which connect two-duples and triples found in the existing taxonomy using a recurrent neural network</p>
 <p>Utilized such information of taxonomy's structure to identify the relations with candidate nodes through a multi-classifier</p>
 
@@ -38,7 +38,7 @@ layout: page
 <h5>Research Fellow, supervised by Prof. Yong Deng</h5>
 <h5>Project: Research on the Fractal Dimension of Complex Networks and the Relationship between It and Network Vulnerability</h5>
 <p>Programmed 17 supplementary functions to improve the software package</p>
-<p>Reproduced the work in papers, including Self-similarity of Complex Networks, Origins of Fractality in the Growth of Complex Networks, Local Dimension of Complex Networks, etc.</p>
+<p>Reproduced the work in papers, including Self-similarity of Complex Networks, Origins of Fractality in the Growth of Complex Networks, Local Dimension of Complex Networks, etc</p>
 <p>Tried to Find the relationship between fractal dimension and network vulnerability, and propose a more effective attack method</p>
 <p>Took online courses on Coursera: Network Dynamics of Social Behavior(Upenn), Social and Economic Networks: Models and Analysis(Stanford)</p>
 
@@ -66,8 +66,8 @@ layout: page
 <p>Proposed a Coupled Factor Graph Model including meta-paths as the connection characteristic of structures</p>
 
 <h4>Research on the Approximate Algorithm of the Vertex Cover Problem | Sep 2017</h4>
-<p>Implemented two vertex cover algorithms (put the vertex with the largest degree and the two points of one edge) in the solution set
-Compared the effects of these two algorithms in various situations in detail , showing that under the constructed special graph structure, the approximation algorithm will be stronger than the heuristic greedy algorithm</p>
+<p>Implemented two vertex cover algorithms (put the vertex with the largest degree and the two points of one edge) in the solution set</p>
+<p>Compared the effects of these two algorithms in various situations in detail , showing that under the constructed special graph structure, the approximation algorithm will be stronger than the heuristic greedy algorithm</p>
 
 <h4>Object-oriented Game Design | May 2017</h4>
 <p>Utilized C++ language and the third-party graphics library to implement a dodgeball game and a tower defence game</p>
@@ -99,8 +99,8 @@ Compared the effects of these two algorithms in various situations in detail , s
 <p>Applied the Genetic Algorithm with dual codes and constraints in the evolutionary step; generated the optimal scheduling sequence</p>
 
 <h5>Project 5: The influence of the opening of the community on the surrounding roads</h5>
-<p>Utilized the simulation modelling method based on VISSIM to established a model simulating traffic conditions
-Conducted quantitative measurement about the impact of three residential types on the traffic</p> 
+<p>Utilized the simulation modelling method based on VISSIM to established a model simulating traffic conditions</p>
+<p>Conducted quantitative measurement about the impact of three residential types on the traffic</p> 
 
 <h3>SKILLS</h3>
 <hr style="height:3px;border:none;border-top:3px ridge black;" />
@@ -134,10 +134,10 @@ Conducted quantitative measurement about the impact of three residential types o
 <hr style="height:3px;border:none;border-top:3px ridge black;" />
 
 <h4>Volunteered in the recruitment activity hosted by UESTC | Awarded “Excellent Volunteer” | Sep 2018</h4>
-<p>Responsible for the support work of 12 enterprises
-Assisted in preparing the layout of the venue, direction guidance, and process introduction
-Communicated with HR, discussed with them about the future career direction in data science direction</p>
+<p>Responsible for the support work of 12 enterprises</p>
+<p>Assisted in preparing the layout of the venue, direction guidance, and process introduction</p>
+<p>Communicated with HR, discussed with them about the future career direction in data science direction</p>
 <h4>UESTC “Liren” Class | Apr 2017-Apr 2019</h4>
-<p>Participated in lectures(AI and Zero-shot Learning by John Hopcroft, Cognitive Science and Linguistic by Douglas Hofstadter, etc.) 
-Led a team in the Ginkgo Yellow Innovation and Entrepreneurship Competition; designed a classroom reservation system</p>
+<p>Participated in lectures(AI and Zero-shot Learning by John Hopcroft, Cognitive Science and Linguistic by Douglas Hofstadter, etc.)</p> 
+<p>Led a team in the Ginkgo Yellow Innovation and Entrepreneurship Competition; designed a classroom reservation system</p>
 <h4>Volunteered in a Public Welfare Campaign for Children with Autism | Apr 2017</h4>
