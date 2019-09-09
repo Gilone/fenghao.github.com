@@ -20,32 +20,32 @@ layout: page
 <h4>School of Computational Science and Engineering, Georgia Tech, US | Jul 2019-Present</h4>
 <h5>Research Fellow, supervised by Assistant Prof. Chao Zhang</h5>
 <h5>Project: Taxonomy Construction </h5>
-<p>-Attached a new term into an existing taxonomy, by choosing its most appropriate node from the existing one, as using supervised learning
-<br>-Encoded dependency paths which connect two-duples and triples found in the existing taxonomy using a recurrent neural network
-<br>-Utilized such information of taxonomy's structure to identify the relations with candidate nodes through a multi-classifier</p>
+<p>--Attached a new term into an existing taxonomy, by choosing its most appropriate node from the existing one, as using supervised learning
+<br>--Encoded dependency paths which connect two-duples and triples found in the existing taxonomy using a recurrent neural network
+<br>--Utilized such information of taxonomy's structure to identify the relations with candidate nodes through a multi-classifier</p>
 
 <h4>Institute of Computing Technology, Chinese Academy of Sciences, China | Jan 2019-Present</h4>
 <h5>Visiting Research Fellow, supervised by Associate Prof. Xiang Ao</h5>
 <h5>Project 1:Aspect-Level Sentiment Analysis via Multi-Layer Capsule Networks </h5>
-<p>-Established a model CAPSAR (capsule network with sentiment-aspect reconstruction) communicating with other capsules through a sharing-weight routing algorithm to improve aspect-term level sentiment analysis, and detected potential aspect terms through de-capsulizing the vectors in capsules
-<br>-Demonstrated the superiority of our model on three ATSA benchmarks
-<br>-Paper under review: Chi Xu, Hao Feng(equally contributed author), Xiang Ao. <strong>Hunt Protagonist of Sentiment: Sentiment Analysis via Capsule Network with Sentiment-Aspect Reconstruction</strong>. Submitted to AAAI Conference on Artificial Intelligence</p>
+<p>--Established a model CAPSAR (capsule network with sentiment-aspect reconstruction) communicating with other capsules through a sharing-weight routing algorithm to improve aspect-term level sentiment analysis, and detected potential aspect terms through de-capsulizing the vectors in capsules
+<br>--Demonstrated the superiority of our model on three ATSA benchmarks
+<br>--Paper under review: Chi Xu, Hao Feng(equally contributed author), Xiang Ao. <strong>Hunt Protagonist of Sentiment: Sentiment Analysis via Capsule Network with Sentiment-Aspect Reconstruction</strong>. Submitted to AAAI Conference on Artificial Intelligence</p>
 <h5>Project 2: Analysis of the Polarity of Financial News Data using BERT</h5>
-<p>-Processed the financial news data of Deloitte Touche Tohmatsu
-<br>-Applied the open-source code of BERT provided by Google to train the text data from Deloitte</p>
+<p>--Processed the financial news data of Deloitte Touche Tohmatsu
+<br>--Applied the open-source code of BERT provided by Google to train the text data from Deloitte</p>
 
 <h4>Institute of Fundamental and Frontier Sciences, UESTC, China | Feb-Dec 2018</h4>
 <h5>Research Fellow, supervised by Prof. Yong Deng</h5>
 <h5>Project: Research on the Fractal Dimension of Complex Networks and the Relationship between It and Network Vulnerability</h5>
-<p>-Programmed 17 supplementary functions to improve the software package
-<br>-Reproduced the work in papers, including Self-similarity of Complex Networks, Origins of Fractality in the Growth of Complex Networks, Local Dimension of Complex Networks, etc
-<br>-Tried to Find the relationship between fractal dimension and network vulnerability, and propose a more effective attack method
-<br>-Took online courses on Coursera: Network Dynamics of Social Behavior(Upenn), Social and Economic Networks: Models and Analysis(Stanford)</p>
+<p>--Programmed 17 supplementary functions to improve the software package
+<br>--Reproduced the work in papers, including Self-similarity of Complex Networks, Origins of Fractality in the Growth of Complex Networks, Local Dimension of Complex Networks, etc
+<br>--Tried to Find the relationship between fractal dimension and network vulnerability, and propose a more effective attack method
+<br>--Took online courses on Coursera: Network Dynamics of Social Behavior(Upenn), Social and Economic Networks: Models and Analysis(Stanford)</p>
 
 <h4>Lab of Computer Vision and Machine Intelligence, UESTC, China | Oct 2017-Feb 2018</h4>
 <h5>Research Assistant, supervised by Prof. Le Dong</h5>
-<p>-Shared opinions toward neural network, cutting-edge researches in computer vision and programming; discussed with others
-<br>-Participated in the compilation of the popular science series on artificial intelligence Artificial Intelligence and Agriculture</p>
+<p>--Shared opinions toward neural network, cutting-edge researches in computer vision and programming; discussed with others
+<br>--Participated in the compilation of the popular science series on artificial intelligence Artificial Intelligence and Agriculture</p>
 
 
 <h3>COURSE PROJECTS</h3>
