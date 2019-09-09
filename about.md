@@ -133,7 +133,7 @@ layout: page
 <h3>EXTRACURRICULAR ACTIVITIES</h3>
 <hr style="height:3px;border:none;border-top:3px ridge black;" />
 
-<h4>Volunteered in the recruitment activity hosted by UESTC | Awarded “Excellent Volunteer” | Sep 2018</h4>
+<h4>Volunteered in the career fair hosted by UESTC | Awarded “Excellent Volunteer” | Sep 2018</h4>
 <p>--Responsible for the support work of 12 enterprises
 <br>--Assisted in preparing the layout of the venue, direction guidance, and process introduction
 <br>--Communicated with HR, discussed with them about the future career direction in data science direction</p>
