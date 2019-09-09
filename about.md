@@ -19,24 +19,24 @@ layout: page
 
 <h4>School of Computational Science and Engineering, Georgia Tech, US | Jul 2019-Present</h4>
 <h5>Research Fellow, supervised by Assistant Prof. Chao Zhang</h5>
-<h6>Project: Taxonomy Construction </h6>
+<h5>Project: Taxonomy Construction </h5>
 <p>Attached a new term into an existing taxonomy, by choosing its most appropriate node from the existing one, as using supervised learning.</p>
 <p>Encoded dependency paths which connect two-duples and triples found in the existing taxonomy using a recurrent neural network</p>
 <p>Utilized such information of taxonomy's structure to identify the relations with candidate nodes through a multi-classifier</p>
 
 <h4>Institute of Computing Technology, Chinese Academy of Sciences, China | Jan 2019-Present</h4>
 <h5>Visiting Research Fellow, supervised by Associate Prof. Xiang Ao</h5>
-<h6>Project 1:Aspect-Level Sentiment Analysis via Multi-Layer Capsule Networks </h6>
+<h5>Project 1:Aspect-Level Sentiment Analysis via Multi-Layer Capsule Networks </h5>
 <p>Established a model CAPSAR (capsule network with sentiment-aspect reconstruction) communicating with other capsules through a sharing-weight routing algorithm to improve aspect-term level sentiment analysis, and detected potential aspect terms through de-capsulizing the vectors in capsules</p>
 <p>Demonstrated the superiority of our model on three ATSA benchmarks</p>
 <p>Paper under review: Chi Xu, Hao Feng(equally contributed author), Xiang Ao. Hunt Protagonist of Sentiment: Sentiment Analysis via Capsule Network with Sentiment-Aspect Reconstruction. Submitted to AAAI Conference on Artificial Intelligence</p>
-<h6>Project 2: Analysis of the Polarity of Financial News Data using BERT</h6>
+<h5>Project 2: Analysis of the Polarity of Financial News Data using BERT</h5>
 <p>Processed the financial news data of Deloitte Touche Tohmatsu</p>
 <p>Applied the open-source code of BERT provided by Google to train the text data from Deloitte</p>
 
 <h4>Institute of Fundamental and Frontier Sciences, UESTC, China | Feb-Dec 2018</h4>
 <h5>Research Fellow, supervised by Prof. Yong Deng</h5>
-<h6>Project: Research on the Fractal Dimension of Complex Networks and the Relationship between It and Network Vulnerability</h6>
+<h5>Project: Research on the Fractal Dimension of Complex Networks and the Relationship between It and Network Vulnerability</h5>
 <p>Programmed 17 supplementary functions to improve the software package</p>
 <p>Reproduced the work in papers, including Self-similarity of Complex Networks, Origins of Fractality in the Growth of Complex Networks, Local Dimension of Complex Networks, etc.</p>
 <p>Tried to Find the relationship between fractal dimension and network vulnerability, and propose a more effective attack method</p>
@@ -83,22 +83,22 @@ Compared the effects of these two algorithms in various situations in detail , s
 
 <h4>UESTC training team for National Mathematical Contest in Modeling | Oct 2017-Oct 2018</h4>
 <h5>Team Leader, awarded the Provincial 3rd Prize of National Contest in Mathematical Modeling for College Students</h5>
-<h6>Project 1: Design pricing for moneymaking applications based on dual-objective optimization</h6>
+<h5>Project 1: Design pricing for moneymaking applications based on dual-objective optimization</h5>
 <p>Applied fuction corrcoef in Matlab to calculate the relationship between impact factors; utilized the method of analyzing correlation</p>
 <p>Established a dual-objective optimization model for the optimal total price and task completion </p>
 <p>Utilized the power function to simulate the relationship between competition and pricing</p>
 
-<h6>Project 2: Sun shadow location model based on simulated annealing algorithm</h6>
+<h5>Project 2: Sun shadow location model based on simulated annealing algorithm</h5>
 <p>Established a single-objective optimization model based on least squares; employed the simulated annealing algorithm to solve it</p>
 
-Project 3: Analyzing the competition results of a famous athlete Lin Dan and predicting the upcoming result  
+<h5>Project 3: Analyzing the competition results of a famous athlete Lin Dan and predicting the upcoming result</h5>  
 <p>Preprocessed data; analyzed technical indexes by Spectral Clustering</p>
 <p>Analyzed the functional relation of competition result and 39 technical variables based on regression analysis</p>
 
-Project 4: A dynamic scheduling model using the Genetic Algorithm
+<h5>Project 4: A dynamic scheduling model using the Genetic Algorithm</h5>
 <p>Applied the Genetic Algorithm with dual codes and constraints in the evolutionary step; generated the optimal scheduling sequence</p>
 
-Project 5: The influence of the opening of the community on the surrounding roads
+<h5>Project 5: The influence of the opening of the community on the surrounding roads</h5>
 <p>Utilized the simulation modelling method based on VISSIM to established a model simulating traffic conditions
 Conducted quantitative measurement about the impact of three residential types on the traffic</p> 
 
