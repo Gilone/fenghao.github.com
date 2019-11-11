@@ -11,7 +11,7 @@ layout: page
 <h4>Chinese Academy of Sciences | Research Program | 01/2019-Present</h4>
 <h4>Sophia University, Japan | Exchange Program | 07/2017</h4>
 <h4>University of Electronic Science and Technology of China (UESTC) | 09/2016-Present</h4>
-<p>Bachelor of Computer Science, Overall GPA: 3.99/4 (93.5), Rank: 1/243 | Aug 2016- Jul 2020</p>
+<p>Bachelor of Computer Science, Overall GPA: 3.99/4 (93.5), Rank: 1/242 | Aug 2016- Jul 2020</p>
 
 
 <h3>RESEARCH EXPERIENCES</h3>
@@ -122,8 +122,8 @@ layout: page
 <hr style="height:3px;border:none;border-top:3px ridge black;" />
 
 <ul>
-	<li>National Scholarship (1.5%) &nbsp;   Sep 2018</li>
-	<li>Outstanding Student Scholarship for twice (5%) &nbsp;   Sep 2017 & Sep 2018</li>
+	<li>National Scholarship for twice(1.5%) &nbsp;   Sep 2018 and Sep 2019</li>
+	<li>Outstanding Student Scholarship for three times (5%) &nbsp;   Sep 2017, Sep 2018 and Sep 2019 </li>
 	<li>Enterprise Scholarship of China Resources Corporation (0.5%) &nbsp;   Sep 2017</li>
 	<li>Provincial award of Mathematical Contest in Modeling (Responsible for modeling and programming) &nbsp;   Nov 2018</li>
 	<li>Second Prize of MATLAB Programming Competition  &nbsp;  May 2017</li>
