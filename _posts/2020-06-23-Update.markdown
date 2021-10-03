@@ -4,12 +4,12 @@ layout: post
 date: 2020-06-23 22:10
 tag: 
 - Life
-image: assets/images/profile.jpg
+image: https://img9.doubanio.com/view/subject/m/public/s33672706.jpg
 headerImage: true
 projects: false
 hidden: false # don't count this post in blog pagination
 description: 
-category: project
+category: blog
 author: Hao Feng
 externalLink: false
 ---

@@ -1,12 +1,13 @@
 ---
 title: "Templet"
 layout: post
-date: 2016-02-24 22:48
+date: 2020-02-24 22:48
 image: /assets/images/profile.jpg
 headerImage: false
 tag:
 - Tech
 category: blog
+projects: false
 author: Hao Feng
 description: Markdown summary with different options
 ---
