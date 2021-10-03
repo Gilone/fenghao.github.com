@@ -28,11 +28,6 @@ We got along very happily and gained so much!
     </div>
 </div>
 
-
-
-
-
-
 <div class="side-by-side">
     <div class="toright">
         <img class="image" src="{{site.url}}/assets/images/nokia/momo.jpg">
@@ -41,12 +36,6 @@ We got along very happily and gained so much!
         <p>&#128054; This is MOMO, and I am her godfather! She was a stray dog, when we first met her, she was very weak, but after our dedicated care, she has regained her vitality now! By the way, she is very naughty!</p>
     </div>
 </div>
-
-
-
-
-
-
 
 ![NokiaEnd]({{site.url}}/assets/images/nokia/nokiaend.jpg)
 
