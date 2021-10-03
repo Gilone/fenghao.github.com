@@ -2,7 +2,7 @@
 title: "&#128189 An impressive album founds me!"
 layout: post
 date: 2020-05-01 22:48
-image: http://www.tapthepop.net/wp/wp-content/uploads/2016/07/unnamed-file.jpg
+image: {{site.url}}/assets/images/singer.jpg
 headerImage: True
 tag:
 - Music
@@ -72,7 +72,7 @@ Add your presentations here!
 
 #### My favorite - Wandering さすらい
 
-<iframe width="560" height="310" src="https://www.youtube.com/watch?v=w71N7MX9HcQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="310" src="https://www.youtube.com/watch?v=jxVn6oerMs0" frameborder="0" allowfullscreen></iframe>
 
 
 Get the full album on [Amozon](https://www.amazon.co.jp/%E9%A3%9B%E3%83%BB%E3%81%B3%E3%83%BB%E3%81%BE%E3%83%BB%E3%81%99-%E5%B1%B1%E5%B4%8E%E3%83%8F%E3%82%B3/dp/B00005FQ1Z)
