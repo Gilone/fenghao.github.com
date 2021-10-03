@@ -4,26 +4,26 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>A passionate developer, learner and thinker.</p>  
-<p>Also a Yo-Yo&#129664 player, guitar player and drummer.</p>
+**A passionate developer, learner and thinker.**  
+**Also a Yo-Yo player, guitar player and drummer.**
 
-I'm currently studying on campus as a graduate student at the University of California, San Diego and I am actively looking for an internship in the 2022 summer.  
-I may be the intern you need who is willing to learn and keep making progress, so feel free to email me.
+**I'm currently studying on campus as a graduate student at the University of California, San Diego and I am actively looking for an internship in the 2022 summer. I may be the intern you need who is willing to learn and keep making progress, so feel free to email me.**
 
 ### EDUCATION
 
 - University of California, San Diego (UCSD), Sept. 2021 - Present
   - M.S. in Computer Science
+- University of Electronic Science and Technology of China (UESTC), Sept. 2016 - July 2020
+  - B.Eng. in Computer Science, Overall GPA: 3.98/4 (92.1), **Ranking: 1/242**
 - Georgia Institute of Technology (Gatech), Research Program, July 2019 - Oct. 2019
 - Chinese Academy of Sciences, Research Program, Dec. 2018 - Mar. 2019
 - Sophia University, Japan, Exchange Program, July 2017
-- University of Electronic Science and Technology of China (UESTC), Sept. 2016 - July 2020
-  - B.Eng. in Computer Science, Overall GPA: 3.98/4 (92.1), Ranking: 1/242
 
 ### SKILL
 
-Languages: Python, C/C++, Java/Jersey/SpringBoot, JS/React/Axios/HTML/CSS, Matlab, VBA  
-Developer Tools: Git/Gerrit/JIRA, Linux, vSphere, Tomcat/Nginx, Jenkins, Docker, MongoDB/SQLite/SQLServer
+- Languages: Python, C/C++, Java/Jersey/SpringBoot, JS/React/Axios/HTML/CSS, Matlab, VBA  
+
+- Developer Tools: Git/Gerrit/JIRA, Linux, vSphere, Tomcat/Nginx, Jenkins, Docker, MongoDB/SQLite/SQLServer
 
 ### PROFESSIONAL EXPERIENCE
 
@@ -48,7 +48,9 @@ Software Engineer, Scrum Master | May 2020 – June 2021
 Research Assistant, Supervised by Prof. Chao Zhang | July 2019 – Oct. 2019
 
 - Proposed a novel dependency paths structure to encode connection of node paths found in taxonomies with RNN, and devised heterogeneous self-supervised learning structures to capture implicitly related information.
+
 - Processed 16GB+ Wikipedia corpus with Berkeley DB and developed the model with Pytorch, which improved accuracy rate by 25% compared with traditional methods on SemEval-2016 Task 13.
+
 - **Publication:** STEAM: *Self-Supervised Taxonomy Expansion with Mini-Paths*, accepted by Proc. KDD, 2020.
 
 #### Institute of Computing Technology, Chinese Academy of Sciences Beijing, China
@@ -56,7 +58,9 @@ Research Assistant, Supervised by Prof. Chao Zhang | July 2019 – Oct. 2019
 Research Assistant, Supervised by Prof. Xiang Ao Dec. 2018 – Mar. 2019
 
 - Established a capsule network model CAPSAR, which communicates with other capsules through a sharing-weight routing algorithm to improve aspect-term level sentiment analysis, and detected potential aspect terms through de-capsulizing the vectors in capsules.
+
 - Fine-tuned BERT on Colab and designed experiments with Keras on SemEval-2014 task 4: achieved accuracy rate 0.826 and Marco F1 0.741 on Restaurant data set, which are superior to the SA-LSTM-P and TNet-LF model.
+
 - **Publication:** *Hunt Protagonist of Sentiment: Sentiment Analysis via Capsule Network with Sentiment-Aspect Reconstruction*, accepted by Proc. DASFAA, 2021.
 
 ### COURSE PROJECTS
