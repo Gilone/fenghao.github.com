@@ -4,20 +4,20 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-A passionate developer, learner and thinker.  
-Also a Yo-Yo&#129664 player, guitar player and drummer.
+<p>A passionate developer, learner and thinker.</p>  
+<p>Also a Yo-Yo&#129664 player, guitar player and drummer.</p>
 
 I'm currently studying on campus as a graduate student at the University of California, San Diego and I am actively looking for an internship in the 2022 summer.  
 I may be the intern you need who is willing to learn and keep making progress, so feel free to email me.
 
 ### EDUCATION
 
-- University of California, San Diego (UCSD) | Sept. 2021 - Present
+- University of California, San Diego (UCSD), Sept. 2021 - Present
   - M.S. in Computer Science
-- Georgia Institute of Technology (Gatech) | Research Program | July 2019 - Oct. 2019
-- Chinese Academy of Sciences | Research Program | Dec. 2018 - Mar. 2019
-- Sophia University, Japan | Exchange Program | July 2017
-- University of Electronic Science and Technology of China (UESTC) | Sept. 2016 - July 2020
+- Georgia Institute of Technology (Gatech), Research Program, July 2019 - Oct. 2019
+- Chinese Academy of Sciences, Research Program, Dec. 2018 - Mar. 2019
+- Sophia University, Japan, Exchange Program, July 2017
+- University of Electronic Science and Technology of China (UESTC), Sept. 2016 - July 2020
   - B.Eng. in Computer Science, Overall GPA: 3.98/4 (92.1), Ranking: 1/242
 
 ### SKILL
@@ -31,21 +31,15 @@ Developer Tools: Git/Gerrit/JIRA, Linux, vSphere, Tomcat/Nginx, Jenkins, Docker,
 
 Software Engineer, Scrum Master | May 2020 – June 2021
 
-- Led a scrum team of eight members and developed Gatekeeper, a web application powering R&D closed-loop system by
-checking errors in Nokia’s 5G design documents, from scratch. Designed the architecture of back-end, front-end, testing
-and CI/CD, implemented it with React, Spring Boot and MongoDB, deployed vSphere and Jenkins services and
-dockerized them, serving 1k+ system engineers in 5G’s global team.
-- Refactored the daily report-generating python scripts interacted with 100k+ Nokia’s employees records per day
-following Clean Code, optimized the structure by replacing redundant SQL queries with an independent LDAP
-traversal and maintenance service and introducing reusability and scalability by providing several APIs, reducing the
-average running time from 2h to 39s ↓.
-- Devised a method to optimize workflow by collecting progress data of features from Power BI and Gerrit and
-generating slides automatically, designed a multi-threaded crawler application in Python with PyQt, Requests,
-Selenium and Multiprocessing, reducing a man-day ↓ in every two weeks.
-- Designed a RESTful file transfer proxy, coded in Java with Jersey and Tomcat, and opened a channel to allow users
-without permission to obtain files remotely.
-- Implemented workflow tool-kits such as HTML automatic generator, email robot, mock testing, DAO helper,
-authentication module disassembled from 50k+ lines of VBA code, etc., promoted them within CI teams of Nokia.
+- Led a scrum team of eight members and developed Gatekeeper, a web application powering R&D closed-loop system by checking errors in Nokia’s 5G design documents, from scratch. Designed the architecture of back-end, front-end, testing and CI/CD, implemented it with React, Spring Boot and MongoDB, deployed vSphere and Jenkins services and dockerized them, serving 1k+ system engineers in 5G’s global team.
+
+- Refactored the daily report-generating python scripts interacted with 100k+ Nokia’s employees records per day following Clean Code, optimized the structure by replacing redundant SQL queries with an independent LDAP traversal and maintenance service and introducing reusability and scalability by providing several APIs, reducing the average running time from 2h to 39s ↓.
+
+- Devised a method to optimize workflow by collecting progress data of features from Power BI and Gerrit and generating slides automatically, designed a multi-threaded crawler application in Python with PyQt, Requests, Selenium and Multiprocessing, reducing a man-day ↓ in every two weeks.
+
+- Designed a RESTful file transfer proxy, coded in Java with Jersey and Tomcat, and opened a channel to allow users without permission to obtain files remotely.
+
+- Implemented workflow tool-kits such as HTML automatic generator, email robot, mock testing, DAO helper, authentication module disassembled from 50k+ lines of VBA code, etc., promoted them within CI teams of Nokia.
 
 ### RESEARCH EXPERIENCE
 
@@ -53,21 +47,16 @@ authentication module disassembled from 50k+ lines of VBA code, etc., promoted t
 
 Research Assistant, Supervised by Prof. Chao Zhang | July 2019 – Oct. 2019
 
-- Proposed a novel dependency paths structure to encode connection of node paths found in taxonomies with RNN, and
-devised heterogeneous self-supervised learning structures to capture implicitly related information.
-- Processed 16GB+ Wikipedia corpus with Berkeley DB and developed the model with Pytorch, which improved
-accuracy rate by 25% compared with traditional methods on SemEval-2016 Task 13.
+- Proposed a novel dependency paths structure to encode connection of node paths found in taxonomies with RNN, and devised heterogeneous self-supervised learning structures to capture implicitly related information.
+- Processed 16GB+ Wikipedia corpus with Berkeley DB and developed the model with Pytorch, which improved accuracy rate by 25% compared with traditional methods on SemEval-2016 Task 13.
 - **Publication:** STEAM: *Self-Supervised Taxonomy Expansion with Mini-Paths*, accepted by Proc. KDD, 2020.
 
 #### Institute of Computing Technology, Chinese Academy of Sciences Beijing, China
 
 Research Assistant, Supervised by Prof. Xiang Ao Dec. 2018 – Mar. 2019
 
-- Established a capsule network model CAPSAR, which communicates with other capsules through a sharing-weight
-routing algorithm to improve aspect-term level sentiment analysis, and detected potential aspect terms through
-de-capsulizing the vectors in capsules.
-- Fine-tuned BERT on Colab and designed experiments with Keras on SemEval-2014 task 4: achieved accuracy rate
-0.826 and Marco F1 0.741 on Restaurant data set, which are superior to the SA-LSTM-P and TNet-LF model.
+- Established a capsule network model CAPSAR, which communicates with other capsules through a sharing-weight routing algorithm to improve aspect-term level sentiment analysis, and detected potential aspect terms through de-capsulizing the vectors in capsules.
+- Fine-tuned BERT on Colab and designed experiments with Keras on SemEval-2014 task 4: achieved accuracy rate 0.826 and Marco F1 0.741 on Restaurant data set, which are superior to the SA-LSTM-P and TNet-LF model.
 - **Publication:** *Hunt Protagonist of Sentiment: Sentiment Analysis via Capsule Network with Sentiment-Aspect Reconstruction*, accepted by Proc. DASFAA, 2021.
 
 ### COURSE PROJECTS
@@ -110,7 +99,7 @@ de-capsulizing the vectors in capsules.
 
 #### UESTC training team for National Mathematical Contest in Modeling | Oct. 2017-Oct. 2018
 
-- Team Leader, awarded the Provincial 3rd Prize of National Contest in Mathematical Modeling for College Students
+Team Leader, awarded the Provincial 3rd Prize of National Contest in Mathematical Modeling for College Students
 
 ##### Project 1: Design pricing for moneymaking applications based on dual-objective optimization
 
@@ -138,13 +127,13 @@ de-capsulizing the vectors in capsules.
 
 ### AWARDS
 
-- Outstanding Graduate (Top 0.4%) | May 2020
-- National Scholarship for twice (Top 1.5%) | Sept. 2018 and Sept. 2019
-- Outstanding Student Scholarship for three times (Top 5%) | Sept. 2017, Sept. 2018 and Sept. 2019
-- Enterprise Scholarship of China Resources Corporation (Top 0.5%) | Sept. 2017
-- Provincial award of Mathematical Contest in Modeling (Responsible for modeling and programming) | Nov. 2018
-- Second Prize of MATLAB Programming Competition | May 2017
-- Second Prize of National Spoken English Competition| Dec. 2017
+- Outstanding Graduate (Top 0.4%), May 2020
+- National Scholarship for twice (Top 1.5%), Sept. 2018 and Sept. 2019
+- Outstanding Student Scholarship for three times (Top 5%), Sept. 2017, Sept. 2018 and Sept. 2019
+- Enterprise Scholarship of China Resources Corporation (Top 0.5%), Sept. 2017
+- Provincial award of Mathematical Contest in Modeling (Responsible for modeling and programming), Nov. 2018
+- Second Prize of MATLAB Programming Competition, May 2017
+- Second Prize of National Spoken English Competition, Dec. 2017
 
 ### EXTRACURRICULAR ACTIVITIES
 
