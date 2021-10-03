@@ -8,10 +8,9 @@ image: https://img9.doubanio.com/view/subject/m/public/s33672706.jpg
 headerImage: true
 projects: false
 hidden: false # don't count this post in blog pagination
-description: 
+description: nothing
 category: blog
 author: Hao Feng
-externalLink: false
 ---
 
 ## After a long time, I finally update my profile
