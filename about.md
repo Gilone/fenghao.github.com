@@ -50,7 +50,7 @@ Research Assistant, Supervised by Prof. Chao Zhang | July 2019 – Oct. 2019
 
 - Processed 16GB+ Wikipedia corpus with Berkeley DB and developed the model with Pytorch, which improved accuracy rate by 25% compared with traditional methods on SemEval-2016 Task 13.
 
-- **Publication:** STEAM: *Self-Supervised Taxonomy Expansion with Mini-Paths*, accepted by Proc. KDD, 2020.
+- **Publication:** *STEAM: Self-Supervised Taxonomy Expansion with Mini-Paths*, accepted by Proc. KDD, 2020.
 
 #### Institute of Computing Technology, Chinese Academy of Sciences Beijing, China
 

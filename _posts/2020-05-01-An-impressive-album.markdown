@@ -18,7 +18,6 @@ description: Hako Yamasaki - Tobimasu
     <div class="toleft">
         <img class="image" src="{{site.url}}/assets/images/album.jpg">
     </div>
-
     <div class="toright">
         <p>Hako Yamasaki's debut is more consistently neurotic than the classic Tsunawatari. Yamasaki wails like a siren at sea, and just as beautiful. Nostalgia and Wandering hooking you right into the melancholy mood the album oozes. Change Of Pace and the title track are a departure from the tone of the previous songs, and welcome ones at that, but only to come right back down with Lullaby. It's a more cohesive work than Tsunawatari, if less technically impressive. A Male And Female In A Room is the bonus track off the CD remaster, but the perfect end to this album.</p>
     </div>
@@ -73,6 +72,5 @@ Add your presentations here!
 #### My favorite - Wandering さすらい
 
 <iframe width="560" height="310" src="https://www.youtube.com/watch?v=jxVn6oerMs0" frameborder="0" allowfullscreen></iframe>
-
 
 Get the full album on [Amozon](https://www.amazon.co.jp/%E9%A3%9B%E3%83%BB%E3%81%B3%E3%83%BB%E3%81%BE%E3%83%BB%E3%81%99-%E5%B1%B1%E5%B4%8E%E3%83%8F%E3%82%B3/dp/B00005FQ1Z)
