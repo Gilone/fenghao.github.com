@@ -1,20 +1,20 @@
 # main text of home
 name: Hao Feng
-bio: A man who studies data science listening to rock music
+bio: Hello! I am a CS student listening to rock music while coding.
 
 # twitter summary info
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: 
+external-image: assets/images/profile.jpg
 picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: True
 resume-external: false
-resume-url: https://google.com/?q=my+resume
+resume-url: assets/Resume_Hao_Feng_UCSD_SDE_2021_9.pdf
 
 url: https://gilone.github.io/fenghao.github.com/
 # your url: http://USERNAME.github.io
@@ -39,13 +39,13 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: imfenghao
 # youtube: myyoutube
 # spotify: myspotify
 github: Gilone
 # gitlab: mygitlab
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
+stackoverflow: 14332622/hao-feng
 # quora: userquora
 # reddit: username
 # medium: medium
@@ -81,7 +81,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: false
+blog: True
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -96,7 +96,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: false
+show-author: true
 
 # do you want some animations?
 animation: true

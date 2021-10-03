@@ -1,14 +1,22 @@
+# fenghao.tech
 
-<h2> <a href="http://sergiokopplin.github.io/indigo/"></h2>
-<p> This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
-    
+This is the hompage of Hao Feng powering by Jekyll for those who likes to eat noodles.
+
+- Gulp
+- BrowserSync
+- Stylus
+- SVG
+- Travis
+- No JS
 
 ## Settings
 
-You must fill some informations on `_config.yml` to customize your site.
+Come and follow informations on `_config.yml` to customize your site.
 
 ## How To?
 
 Check the [FAQ](./FAQ.md) if you have any doubt or problem.
 
+## Thanks to John Doe
 
+<href="http://sergiokopplin.github.io/indigo/">
