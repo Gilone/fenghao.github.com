@@ -1,6 +1,7 @@
-# fenghao.tech
+# Personal Website
 
 This is the hompage of Hao Feng powering by Jekyll for those who likes to eat noodles.
+Welcome to <fenghao.tech>!
 
 - Gulp
 - BrowserSync
@@ -19,4 +20,4 @@ Check the [FAQ](./FAQ.md) if you have any doubt or problem.
 
 ## Thanks to John Doe
 
-<href="http://sergiokopplin.github.io/indigo/">
+<http://sergiokopplin.github.io/indigo/>
