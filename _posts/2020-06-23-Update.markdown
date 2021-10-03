@@ -2,13 +2,14 @@
 title: "Updated my profile!"
 layout: post
 date: 2020-06-23 22:10
-tag: DailyLife
+tag: 
+- Life
 image: assets/images/profile.jpg
 headerImage: true
 projects: false
 hidden: false # don't count this post in blog pagination
 description: 
-category: DailyLife
+category: project
 author: Hao Feng
 externalLink: false
 ---
