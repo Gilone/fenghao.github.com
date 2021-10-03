@@ -12,7 +12,7 @@ author: Hao Feng
 description: Hako Yamasaki - Tobimasu
 ---
 
-### Hako Yamasaki - Tobimasu/山崎ハコ - 飛・び・ま・す (1975)
+### Hako Yamasaki - Tobimasu / 山崎ハコ - 飛・び・ま・す (1975)
 
 <div class="side-by-side">
     <div class="toleft">

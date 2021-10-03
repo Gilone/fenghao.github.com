@@ -12,7 +12,7 @@ author: Hao Feng
 description: Some Good memories at Nokia
 ---
 
-[Mushrooms]({{site.url}}/assets/images/nokia/mushrooms.jpg)
+![Mushrooms]({{site.url}}/assets/images/nokia/mushrooms.jpg)
 
 Our scrum team is called **Big Mushroom**!  
 
@@ -33,10 +33,10 @@ We got along very happily and gained so much!
         <img class="image" src="{{site.url}}/assets/images/nokia/momo.jpg">
     </div>
     <div class="toleft">
-        <p>&#128054 This is MOMO, and I am her godfather! She was a stray dog, when we first met her, she was very weak, but after our dedicated care, she has regained her vitality now! By the way, she is very naughty!</p>
+        <p>&#128054; This is MOMO, and I am her godfather! She was a stray dog, when we first met her, she was very weak, but after our dedicated care, she has regained her vitality now! By the way, she is very naughty!</p>
     </div>
 </div>
 
-[nokiaend]({{site.url}}/assets/images/nokia/nokiaend.jpg)
+![NokiaEnd]({{site.url}}/assets/images/nokia/nokiaend.jpg)
 
 Me with my best friend at Nokia, Sol, she is an undergraduate from Carnegie Mellon University, and she is a very talented programmer.
