@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 **A passionate developer, learner and thinker.**  
-**Also a Yo-Yo player, guitar player and drummer.**
+**Also a Yo-Yo&#x1FA80; player, guitar player and drummer.**
 
 **I'm currently studying on campus as a graduate student at the University of California, San Diego and I am actively looking for an internship in the 2022 summer. I may be the intern you need who is willing to learn and keep making progress, so feel free to email me.**
 
@@ -22,7 +22,6 @@ layout: page
 ### SKILL
 
 - Languages: Python, C/C++, Java/Jersey/SpringBoot, JS/React/Axios/HTML/CSS, Matlab, VBA  
-
 - Developer Tools: Git/Gerrit/JIRA, Linux, vSphere, Tomcat/Nginx, Jenkins, Docker, MongoDB/SQLite/SQLServer
 
 ### PROFESSIONAL EXPERIENCE

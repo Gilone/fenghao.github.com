@@ -12,10 +12,11 @@ author: Hao Feng
 description: Hako Yamasaki - Tobimasu
 ---
 
+### Hako Yamasaki - Tobimasu/山崎ハコ - 飛・び・ま・す (1975)
+
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://music.douban.com/subject/35112521/" alt="Alt Text">
-        <figcaption class="caption">Photo from Douban</figcaption>
+        <img class="image" src="{{site.url}}/assets/images/album.jpg">
     </div>
 
     <div class="toright">
@@ -69,9 +70,9 @@ Add your presentations here!
 
 --- -->
 
+#### My favorite - Wandering さすらい
 
-## You could try it on Youtube
+<iframe width="560" height="310" src="https://www.youtube.com/watch?v=w71N7MX9HcQ" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="310" src="https://www.youtube.com/watch?v=hboXXVfj24M" frameborder="0" allowfullscreen></iframe>
 
-Get this on [Amozon](https://www.amazon.co.jp/%E9%A3%9B%E3%83%BB%E3%81%B3%E3%83%BB%E3%81%BE%E3%83%BB%E3%81%99-%E5%B1%B1%E5%B4%8E%E3%83%8F%E3%82%B3/dp/B00005FQ1Z)
+Get the full album on [Amozon](https://www.amazon.co.jp/%E9%A3%9B%E3%83%BB%E3%81%B3%E3%83%BB%E3%81%BE%E3%83%BB%E3%81%99-%E5%B1%B1%E5%B4%8E%E3%83%8F%E3%82%B3/dp/B00005FQ1Z)
