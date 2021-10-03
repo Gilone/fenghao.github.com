@@ -2,7 +2,7 @@
 title: "&#128189 An impressive album founds me!"
 layout: post
 date: 2020-05-01 22:48
-image: assets/images/singer.jpg
+image: https://i.ytimg.com/vi/AeSlHHFFKEE/maxresdefault.jpg
 headerImage: True
 tag:
 - Music
