@@ -16,7 +16,7 @@ description: Some Good memories at Nokia
 
 Our scrum team is called **Big Mushroom**!  
 
-At Nokia, we mushrooms developed software together. We learned new frameworks, discussed problems and practiced clean code together in practice!  
+At Nokia, we mushrooms developed software together. We learned new frameworks, discussed problems and practiced clean code together in projects!  
 We got along very happily and gained so much!
 
 <div class="side-by-side">
