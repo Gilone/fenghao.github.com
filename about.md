@@ -7,7 +7,7 @@ layout: page
 **A passionate developer, learner and thinker.**  
 **Also a Yo-Yo&#x1FA80; player, guitar player and drummer.**
 
-**I'm currently studying on campus as a graduate student at the University of California, San Diego and I am actively looking for an internship in the 2022 summer. I may be the intern you need who is willing to learn and keep making progress, so feel free to email me.**
+**I'm currently studying on campus as a graduate student at the University of California, San Diego and I am actively looking for an internship in the 2022 summer. I am the intern you need who is willing to learn and keep making progress, so feel free to email me.**
 
 ### EDUCATION
 
