@@ -73,4 +73,4 @@ Add your presentations here!
 
 <iframe width="560" height="310" src="https://www.youtube.com/watch?v=jxVn6oerMs0" frameborder="0" allowfullscreen></iframe>
 
-Get the full album on [Amozon](https://www.amazon.co.jp/%E9%A3%9B%E3%83%BB%E3%81%B3%E3%83%BB%E3%81%BE%E3%83%BB%E3%81%99-%E5%B1%B1%E5%B4%8E%E3%83%8F%E3%82%B3/dp/B00005FQ1Z)
+Get the full album on [Amazon](https://www.amazon.co.jp/%E9%A3%9B%E3%83%BB%E3%81%B3%E3%83%BB%E3%81%BE%E3%83%BB%E3%81%99-%E5%B1%B1%E5%B4%8E%E3%83%8F%E3%82%B3/dp/B00005FQ1Z)
