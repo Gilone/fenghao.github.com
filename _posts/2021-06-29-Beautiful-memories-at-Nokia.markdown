@@ -2,7 +2,7 @@
 title: "Beautiful memories at Nokia"
 layout: post
 date: 2021-06-29 16:20
-image: {{site.url}}/assets/images/logoV13.jpg
+image: https://inews.gtimg.com/newsapp_bt/0/13580771639/1000
 headerImage: True
 tag:
 - Life
@@ -12,14 +12,16 @@ author: Hao Feng
 description: Some Good memories at Nokia
 ---
 
-The header image is the logo of our main project, Gatekeeper.  
-
 ![Mushrooms]({{site.url}}/assets/images/nokia/mushrooms.jpg)
 
 Our scrum team is called **Big Mushroom**!  
 
 At Nokia, we mushrooms developed software together. We learned new frameworks, discussed problems and practiced clean code together in projects.  
 We got along very happily and gained so much.
+
+![Logo]({{site.url}}/assets/images/logoV13.jpg)
+
+This is the logo of our main project, Gatekeeper, and we built it from scratch.
 
 <div class="side-by-side">
     <div class="toleft">
