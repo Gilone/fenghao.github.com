@@ -29,7 +29,7 @@ layout: page
 #### Nokia
 
 Software Engineer, Scrum Master | May 2020 – June 2021  
-**Innovation Contributor Badge and Appreciate Excellence Award of Nokia for five times**
+**&#127941;Innovation Contributor Badge and Appreciate Excellence Award of Nokia for five times**
 
 - Led a scrum team of eight members and developed Gatekeeper, a web application powering R&D closed-loop system by checking errors in Nokia’s 5G design documents, from scratch. Designed the architecture of back-end, front-end, testing and CI/CD, implemented it with React, Spring Boot and MongoDB, deployed vSphere and Jenkins services and dockerized them, serving 1k+ system engineers in 5G’s global team.
 
