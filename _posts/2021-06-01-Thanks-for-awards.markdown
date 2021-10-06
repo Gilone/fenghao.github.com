@@ -1,5 +1,5 @@
 ---
-title: "Thanks for the recognition and rewards from Nokia!"
+title: "&#127942 Thanks for the recognition and rewards from Nokia!"
 layout: post
 date: 2021-06-01 15:15
 image: https://predictableprofits.com/wp-content/uploads/2020/12/Nokia.jpg

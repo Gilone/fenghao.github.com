@@ -12,16 +12,16 @@ author: Hao Feng
 description: Some Good memories at Nokia
 ---
 
-![Mushrooms]({{site.url}}/assets/images/nokia/mushrooms.jpg)
+Our scrum team is called **Big Mushroom**&#127812;!  
 
-Our scrum team is called **Big Mushroom**!  
+![Mushrooms]({{site.url}}/assets/images/nokia/mushrooms.jpg)
 
 At Nokia, we mushrooms developed software together. We learned new frameworks, discussed problems and practiced clean code together in projects.  
 We got along very happily and gained so much.
 
 ![Logo]({{site.url}}/assets/images/logoV13.jpg)
 
-This is the logo of our main project, Gatekeeper, and we built it from scratch.
+This is the logo of our main project, Gatekeeper, and we built it from scratch!
 
 <div class="side-by-side">
     <div class="toleft">

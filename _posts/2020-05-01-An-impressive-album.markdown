@@ -1,5 +1,5 @@
 ---
-title: "&#128189 An impressive album founds me!"
+title: "An impressive album founds me"
 layout: post
 date: 2020-05-01 22:48
 image: https://i.ytimg.com/vi/AeSlHHFFKEE/maxresdefault.jpg
@@ -12,7 +12,7 @@ author: Hao Feng
 description: Hako Yamasaki - Tobimasu
 ---
 
-### Hako Yamasaki - Tobimasu / 山崎ハコ - 飛・び・ま・す (1975)
+### &#128189; Hako Yamasaki - Tobimasu / 山崎ハコ - 飛・び・ま・す (1975)
 
 <div class="side-by-side">
     <div class="toleft">
