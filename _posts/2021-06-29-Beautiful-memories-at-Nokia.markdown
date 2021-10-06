@@ -2,7 +2,7 @@
 title: "Beautiful memories at Nokia"
 layout: post
 date: 2021-06-29 16:20
-image: https://predictableprofits.com/wp-content/uploads/2020/12/Nokia.jpg
+image: {{site.url}}/assets/images/logoV13.png
 headerImage: True
 tag:
 - Life
@@ -12,12 +12,14 @@ author: Hao Feng
 description: Some Good memories at Nokia
 ---
 
+The header image is the logo of our main project, Gatekeeper.  
+
 ![Mushrooms]({{site.url}}/assets/images/nokia/mushrooms.jpg)
 
 Our scrum team is called **Big Mushroom**!  
 
-At Nokia, we mushrooms developed software together. We learned new frameworks, discussed problems and practiced clean code together in projects!  
-We got along very happily and gained so much!
+At Nokia, we mushrooms developed software together. We learned new frameworks, discussed problems and practiced clean code together in projects.  
+We got along very happily and gained so much.
 
 <div class="side-by-side">
     <div class="toleft">
@@ -30,7 +32,7 @@ We got along very happily and gained so much!
 
 <div class="side-by-side">
     <div class="toleft">
-        <p>&#128054; This is MOMO, and I am her godfather! She was a stray dog, when we first met her, she was very weak, but after our dedicated care, she has regained her vitality now! By the way, she is very naughty!</p>
+        <p>&#128054; This is MOMO, and I am her godfather! She was a stray dog, when we first met her, she was very weak, but after our dedicated care, she has regained her vitality now. By the way, she is very naughty!</p>
     </div>
     <div class="toright">
         <img class="image" src="{{site.url}}/assets/images/nokia/momo.jpg">
