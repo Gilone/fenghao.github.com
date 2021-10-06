@@ -2,7 +2,7 @@
 title: "Beautiful memories at Nokia"
 layout: post
 date: 2021-06-29 16:20
-image: {{site.url}}/assets/images/logoV13.png
+image: {site.url}/assets/images/logoV13.png
 headerImage: True
 tag:
 - Life
