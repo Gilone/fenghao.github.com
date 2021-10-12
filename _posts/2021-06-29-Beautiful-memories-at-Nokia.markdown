@@ -2,7 +2,7 @@
 title: "Beautiful memories at Nokia"
 layout: post
 date: 2021-06-29 16:20
-image: https://inews.gtimg.com/newsapp_bt/0/13580771639/1000
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Nokia_Connecting_People.svg/548px-Nokia_Connecting_People.svg.png
 headerImage: True
 tag:
 - Life

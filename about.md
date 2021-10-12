@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 **A passionate developer, learner and thinker.**  
-**Also a Yo-Yo&#x1FA80; player, guitar player and drummer.**
+**Also a Yo-Yo&#x1FA80; player, metalhead and drummer.**
 
 **I am currently studying on campus as a graduate student at the University of California, San Diego, and looking for a software engineering internship in the 2022 summer.**  
 **I am good at writing clean code, learning and making progress, if you think I am the intern you need, please feel free to email me.**
