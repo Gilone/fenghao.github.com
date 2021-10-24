@@ -22,14 +22,14 @@ layout: page
 
 ### SKILL
 
-- Languages: Python, C/C++, Java/Jersey/SpringBoot, JS/React/Axios/HTML/CSS, Matlab, VBA  
-- Developer Tools: Git/Gerrit/JIRA, Linux, vSphere, Tomcat/Nginx, Jenkins, Docker, MongoDB/SQLite/SQLServer
+- Programming: Python, Java, C/C++, JavaScript, Bash, SQL, HTML, CSS, Matlab, VBA
+- Tools: Git, Jenkins, Docker, Spring Boot, Jersey, React, MongoDB, SQLite, SQL Server, Tomcat, Nginx, vSphere, JIRA, Gerrit
 
 ### PROFESSIONAL EXPERIENCE
 
 #### Nokia
 
-Software Engineer, Scrum Master | May 2020 – June 2021  
+Software Engineer, Scrum Master | Aug. 2020 – June 2021  
 **&#127941;Innovation Contributor Badge and Appreciate Excellence Award for five times**
 
 - Led a scrum team of eight members and developed Gatekeeper, a web application powering R&D closed-loop system by checking errors in Nokia’s 5G design documents, from scratch. Designed the architecture of back-end, front-end, testing and CI/CD, implemented it with React, Spring Boot and MongoDB, deployed vSphere and Jenkins services and dockerized them, serving 1k+ system engineers in 5G’s global team.
