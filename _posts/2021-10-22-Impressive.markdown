@@ -12,9 +12,9 @@ author: Hao Feng
 description:
 ---
 
-After another day of studying hard at home, I was exhausted. Thanks to Kaiqi and Allen, my genius friends, they dragged me out of the room and we enjoyed the golden sunshine of Del Mar Beache together, and all the pressure was gone!  
+After another day of studying hard at home, I was exhausted. Thanks to Kaiqi and Allen, my genius friends, they dragged me out of the room and we enjoyed the golden sunshine of Del Mar Beach together, and all the pressure was gone!  
 
-![together]({{site.url}}/assets/images/beach/together.jpg)
+![together]({{site.url}}/assets/images/beach/wetogether.jpg)
 
 Kaiqi, me and Allen.
 
