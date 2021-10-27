@@ -132,10 +132,10 @@ Team Leader, awarded the Provincial 3rd Prize of National Contest in Mathematica
 
 ### AWARDS
 
-- Outstanding Graduate (Top 0.4%), May 2020
-- National Scholarship for twice (Top 0.2%), Sept. 2018 and Sept. 2019
-- Outstanding Student Scholarship for three times (Top 5%), Sept. 2017, Sept. 2018 and Sept. 2019
-- Enterprise Scholarship of China Resources Corporation (Top 0.5%), Sept. 2017
+- Outstanding Graduate (Rank #1 in 242), May 2020
+- National Scholarship for twice (0.2% nationwide), Sept. 2018 and Sept. 2019
+- Outstanding Student Scholarship for three times (5%), Sept. 2017, Sept. 2018 and Sept. 2019
+- Enterprise Scholarship of China Resources Corporation (0.5%), Sept. 2017
 - Provincial award of Mathematical Contest in Modeling (Responsible for modeling and programming), Nov. 2018
 - Second Prize of MATLAB Programming Competition, May 2017
 - Second Prize of National Spoken English Competition, Dec. 2017
