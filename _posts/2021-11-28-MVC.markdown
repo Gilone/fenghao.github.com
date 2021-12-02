@@ -1,5 +1,5 @@
 ---
-title: "Zendesk Ticket Viewer - the MVC pattern practice"
+title: "Zendesk Ticket Viewer - the practice of MVC pattern "
 layout: post
 date: 2021-11-28 22:50
 tag: 
@@ -16,7 +16,6 @@ author: Hao Feng
 ## Introduction
 
 This script is designed to fetch and display the ticktes from Zendesk platform through Zendesk API.  
-
 It has two basic funtions, which are displaying ticktes list page by page and search specific ticket by its ID.  
 
 ## Code
@@ -37,7 +36,7 @@ The code of our work can be found in this [GitHub Repository](https://github.com
 
 ## Demo
 
-![Page Display](https://github.com/Gilone/Ticket-Viewer/blob/main/demo.png)  
+![Page Display](https://raw.githubusercontent.com/Gilone/Ticket-Viewer/main/demo.png)  
 we got 4 page total results, with the data provide in [Test JSON](https://gist.github.com/svizzari/c7ffed8e10d3a456b40ac9d18f34289c).  
 There are totally 100 tickets, and 25 tickets in each page.  
 
