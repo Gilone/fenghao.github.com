@@ -29,18 +29,18 @@ Our result is very helpful for the platforms to use recipes information provided
 
 ## Code
 
-The code of our work can be found in this repository.
-[GitHub Repository](https://github.com/Gilone/Healthy-Diet-is-All-You-Need)
+The code of our work can be found in this [GitHub Repository](https://github.com/Gilone/Healthy-Diet-is-All-You-Need).
 
 ## Document
 
 [Article](https://github.com/Gilone/Healthy-Diet-is-All-You-Need/blob/main/Healthy%20Diet%20is%20All%20You%20Need.pdf)  
+
 [Overleaf](https://www.overleaf.com/project/61a6d99bab117381be5813ae)  
 
 ## F1 Score Result
 
-| features                           | LR     | RF     | MLP     | XGB    | GradientBoostingClassifier | LSTM| LSTM + GloVe | LSTM + trainable GloVe |
-| ---------------------------------- | ------ | ------ | ------ | ------ | -------------------------- |---|---|---|
+| features                           | LR     | RF     | MLP     | XGB    | GBDT | LSTM| LSTM + GloVe | LSTM + trainable GloVe |
+| ------------------------------------------ | -------- | -------- | --------| -------- | -------- | -------- | ------------- | ------------ |
 | Techniques                         | 0.3781 |0.3636 | 0.4081 |0.4079| 0.3849                     | |||
 | Ingredients_ids(500)               | 0.4796 |0.3512 |0.4305 |0.4156 |0.4312                    ||||
 | Ingredients_ids(1000)              | 0.5073 |0.3474 |0.4477 |0.4178 |0.4336                     ||||
