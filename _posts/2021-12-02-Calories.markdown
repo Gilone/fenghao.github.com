@@ -15,6 +15,8 @@ author: Hao Feng
 
 # Healthy Diet is All You Need
 
+Hao Feng, Kaiqi Jin, Mingqing Xu and Pai Tong
+
 ## Abstract
 
 Analyzing calories based on recipes is a critical and meaningful task for many platforms.
@@ -40,7 +42,7 @@ The code of our work can be found in this [GitHub Repository](https://github.com
 ## F1 Score Result
 
 | features                           | LR     | RF     | MLP     | XGB    | GBDT | LSTM| LSTM + GloVe | LSTM + trainable GloVe |
-| ------------------------------------------ | -------- | -------- | --------| -------- | -------- | -------- | ------------- | ------------ |
+| ---------------------------- | -------- | -------- | --------| -------- | ---------- | ---------- | --------------- | -------------- |
 | Techniques                         | 0.3781 |0.3636 | 0.4081 |0.4079| 0.3849                     | |||
 | Ingredients_ids(500)               | 0.4796 |0.3512 |0.4305 |0.4156 |0.4312                    ||||
 | Ingredients_ids(1000)              | 0.5073 |0.3474 |0.4477 |0.4178 |0.4336                     ||||
