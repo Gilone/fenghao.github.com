@@ -1,5 +1,5 @@
 ---
-title: "Zendesk Ticket Viewer - the practice of MVC pattern "
+title: "Zendesk ticket Viewer - the practice of MVC pattern "
 layout: post
 date: 2021-11-28 22:50
 tag: 
