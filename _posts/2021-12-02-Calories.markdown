@@ -13,8 +13,6 @@ category: project
 author: Hao Feng
 ---
 
-# Healthy Diet is All You Need
-
 Hao Feng, Kaiqi Jin, Mingqing Xu and Pai Tong
 
 ## Abstract

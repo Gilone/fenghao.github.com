@@ -1,0 +1,47 @@
+---
+title: "Zendesk Ticket Viewer - the MVC pattern practice"
+layout: post
+date: 2021-11-28 22:50
+tag: 
+- Project
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/200px-MVC-Process.svg.png
+headerImage: true
+projects: true
+hidden: false # don't count this post in blog pagination
+description: MVC practice
+category: project
+author: Hao Feng
+---
+
+## Introduction
+
+This script is designed to fetch and display the ticktes from Zendesk platform through Zendesk API.  
+
+It has two basic funtions, which are displaying ticktes list page by page and search specific ticket by its ID.  
+
+## Code
+
+The code of our work can be found in this [GitHub Repository](https://github.com/Gilone/Ticket-Viewer).
+
+## Set up
+
+* Install Python3
+* run commands: `python -m pip install dotenv`
+* run commands: `python -m pip install requests`
+* run commands: `python -m pip install urllib`
+* edit .env file, make sure that 'MAILBOX = "your username", PASSWORD = "your password", DOMAIN = "your Zendesk URL prefix"'.
+
+## Usage
+
+* run commands at the root path of this repository: `python TicketsController.py`, and follow the instructions.
+
+## Demo
+
+![Page Display](https://github.com/Gilone/Ticket-Viewer/blob/main/demo.png)  
+we got 4 page total results, with the data provide in [Test JSON](https://gist.github.com/svizzari/c7ffed8e10d3a456b40ac9d18f34289c).  
+There are totally 100 tickets, and 25 tickets in each page.  
+
+## Ref
+
+[Zendesk Doc](https://developer.zendesk.com/rest_api/docs/support/tickets)  
+[GitHub Project](https://github.com/kho226/Zendesk)
