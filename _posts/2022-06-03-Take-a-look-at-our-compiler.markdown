@@ -12,7 +12,7 @@ author: Hao Feng
 description:
 ---
 
-As a member of a team of four, I contributed to an online compiler and REPL of Python which translates source code to WebAssembly, collaborated with 40+ developers to implement it in TypeScript. For users, it has the following features:
+Ningzi Zhan, Hansong Zhang, Cheng Huang and I contributed to an online compiler and REPL of Python which translates source code to WebAssembly, collaborated with 40+ developers to implement it in TypeScript. For users, it has the following features:
 
 - **Drag bar**: It could make adjustments to the size of the editor field and interactive console. With this feature, users can focus on a specific mode they are interested in.
 - **Clear button**: Clicking this button would reset all content in the editor and interactive area.
