@@ -5,15 +5,15 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 **A passionate developer, learner and thinker.**  
-**Also a Yo-Yo&#x1FA80; player, metalhead and drummer.**
+**Also a Yo-Yo&#x1FA80; player, metalhead&#x1f918; and rider&#x1f3cd;.**
 
-**I am currently studying on campus as a graduate student at the University of California, San Diego, and looking for a software engineering internship in the 2022 summer.**  
-**I am good at writing clean code, learning and making progress, if you think I am the intern you need, please feel free to email me.**
+**I am currently studying on campus as a graduate student at the University of California, San Diego, and looking for a new graduate software engineer job in the 2023 Spring.**  
+**I am good at writing clean code, learning and making progress, if you think I am the developer you need, please feel free to email me.**
 
 ### EDUCATION
 
 - University of California, San Diego (UCSD), Sept. 2021 - Present
-  - M.S. in Computer Science
+  - M.S. in Computer Science, GPA: 3.86/4
 - University of Electronic Science and Technology of China (UESTC), Sept. 2016 - July 2020
   - B.Eng. in Computer Science, Overall GPA: 3.98/4 (92.1), **Ranking: 1/242**
 - Georgia Institute of Technology (Gatech), Research Program, July 2019 - Oct. 2019
@@ -22,25 +22,39 @@ layout: page
 
 ### SKILL
 
-- Programming: Python, Java, C/C++, JavaScript, Bash, SQL, HTML, CSS, Matlab, VBA
-- Tools: Git, Jenkins, Docker, Spring Boot, Jersey, React, MongoDB, SQLite, SQL Server, Tomcat, Nginx, vSphere, JIRA, Gerrit
+- Programming: Python, Java, Go, C/C++, JavaScript/TypeScript, Shell Script, SQL, HTML, CSS, Matlab, VBA
+- Tools: Git, Jenkins, Docker, Spring Boot, Jersey, React, MongoDB, SQLite, SQL Server, Tomcat, Nginx, vSphere, AWS
 
 ### PROFESSIONAL EXPERIENCE
 
+#### Salesforce
+
+Software Engineer Intern - Cloud Infrastructure, Hyperforce | June 2022 -- Sep. 2022
+
+- Originated an event-driven service that periodically builds and destroys any service with orchestration and stamps a successful set of artifacts, increasing the confidence level of OaaS (Orchestration as a Service) Cloud Platform.
+
+- Built the service in Java, which submits RESTful requests through a web client based on Reactive Spring and tracks them with Amazon SQS, performing thorough rehearsals of building the services and powering all Salesforce deployments across multi-substrate (AWS, Azure, GCP, Alibaba, and Blackjack).
+
 #### Nokia
 
-Software Engineer, Scrum Master | Aug. 2020 – June 2021  
+Full-time Software Engineer, Scrum Master - R&D Center | Aug. 2020 – June 2021  
 **&#127941;Innovation Contributor Badge and Appreciate Excellence Award for five times**
 
-- Led a scrum team of eight members and developed Gatekeeper, a web application powering R&D closed-loop system by checking errors in Nokia’s 5G design documents, from scratch. Designed the architecture of back-end, front-end, testing and CI/CD, implemented it with React, Spring Boot and MongoDB, deployed vSphere and Jenkins services and dockerized them, serving 1k+ system engineers in 5G’s global team.
+- Led a scrum team of eight members, originated Gatekeeper, a web application powering global team’s R&D closed-loop system by automating inspection and maintenance of design documents, and hold end-to-end ownership of it.
+
+- Designed the whole architecture of Gatekeeper, including back-end, front-end, testing and CI/CD, implemented it with React, Spring Boot and MongoDB, deployed vSphere and Jenkins services and dockerized them, serving 1k+ system engineers at Nokia’s network division.
+
+- Devised and developed a RESTful file transfer proxy in Java with Jersey and Tomcat, opening a channel to extend the scope of authority and providing the foundation for services of the infrastructure team.
 
 - Refactored the daily report-generating python scripts interacted with 100k+ Nokia’s employees records per day following Clean Code, optimized the structure by replacing redundant SQL queries with an independent LDAP traversal and maintenance service and introducing reusability and scalability by providing several APIs, reducing the average running time from 2h to 39s ↓.
 
+#### Nokia
+
+Software Engineer Intern - R&D Center | Apr. 2020 -- June 2020
+
 - Devised a method to optimize workflow by collecting progress data of features from Power BI and Gerrit and generating slides automatically, designed a multi-threaded crawler application in Python with PyQt, Requests, Selenium and Multiprocessing, reducing a man-day ↓ in every two weeks.
 
-- Designed a RESTful file transfer proxy, coded in Java with Jersey and Tomcat, and opened a channel to allow users without permission to obtain files remotely.
-
-- Implemented workflow tool-kits such as HTML automatic generator, email robot, mock testing, DAO helper, authentication module disassembled from 50k+ lines of VBA code, etc., promoted them within CI teams of Nokia.
+- Built workflow tool-kits such as HTML automatic generator, email robot, mock testing, DAO helper, authentication module disassembled from 50k+ lines of VBA code, etc., promoted them within infrastructure teams of Nokia.
 
 ### RESEARCH EXPERIENCE
 
@@ -65,6 +79,14 @@ Research Assistant, Supervised by Prof. Xiang Ao Dec. 2018 – Mar. 2019
 - **Publication:** *Hunt Protagonist of Sentiment: Sentiment Analysis via Capsule Network with Sentiment-Aspect Reconstruction*, accepted by Proc. DASFAA, 2021.
 
 ### COURSE PROJECTS
+
+#### Fault-tolerant Cloud Storage System | Mar. 2022
+
+- Constructed a cloud-based Dropbox-like file storage application that synchronizes files via gRPC in Go and made it fault-tolerant based on the RAFT protocol
+
+#### Online Compiler and PERL | May 2022
+
+- Contributed to an online compiler and REPL of Python which translates source code to WebAssembly, collaborated with 40+ developers to implement it in TypeScript and designed the memory management module using static linked list
 
 #### Application for Picture Clustering based on Spectral Clustering and K-means | June. 2018
 
