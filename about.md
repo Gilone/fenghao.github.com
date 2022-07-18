@@ -7,7 +7,7 @@ layout: page
 **A passionate developer, learner and thinker.**  
 **Also a Yo-Yo&#x1FA80; player, metalhead&#x1f918; and rider&#x1f3cd;.**
 
-**I am currently studying on campus as a graduate student at the University of California, San Diego, and looking for a new graduate software engineer job in the 2023 Spring.**  
+**I am currently studying on campus as a graduate student at the University of California, San Diego, and looking for a new graduate software engineer job in the 2023 spring.**  
 **I am good at writing clean code, learning and making progress, if you think I am the developer you need, please feel free to email me.**
 
 ### EDUCATION
@@ -88,14 +88,14 @@ Research Assistant, Supervised by Prof. Xiang Ao Dec. 2018 – Mar. 2019
 
 - Contributed to an online compiler and REPL of Python which translates source code to WebAssembly, collaborated with 40+ developers to implement it in TypeScript and designed the memory management module using static linked list
 
-#### Application for Picture Clustering based on Spectral Clustering and K-means | June. 2018
+#### Application for Picture Clustering based on Spectral Clustering and K-means | June 2018
 
 - Analyzed and compared K-means and Spectral Clustering; proposed solutions to possible problems in design and parameter
 - Implemented a program using Python and modules including PyQt, Scipy, and Pillow
 - Enhanced the portability of the program using Pyinstaller
 - Collected data to measure the pros and cons of various unsupervised learning algorithms, and generated a research report
 
-#### Link Prediction Project | Sep 2017
+#### Link Prediction Project | Sept. 2017
 
 - Analyzed the work of constructing a "complete" coupling network using the meta-propagation rules in the coupling network to amplify the hidden features from the information of two links
 - Proposed a Coupled Factor Graph Model including meta-paths as the connection characteristic of structures
