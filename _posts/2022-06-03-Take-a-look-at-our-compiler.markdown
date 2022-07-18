@@ -2,7 +2,7 @@
 title: "Take a look at our online compiler"
 layout: post
 date: 2022-06-03 12:45
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/USA_California_location_map.svg/800px-USA_California_location_map.svg.png
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/900px-WebAssembly_Logo.svg.png
 headerImage: True
 tag:
 - Tech
