@@ -33,3 +33,5 @@ The overall front page looks like below:
 And the overall error display and breakpoing functionalities are like below:
 ![bp1]({{site.url}}/assets/images/compiler/bp1.png)
 ![bp2]({{site.url}}/assets/images/compiler/bp2.png)
+
+Thank you, my firends, it was a pleasure working with you and I learned a lot from you!
