@@ -54,7 +54,7 @@ Software Engineer Intern - R&D Center | Apr. 2020 -- June 2020
 
 - Devised a method to optimize workflow by collecting progress data of features from Power BI and Gerrit and generating slides automatically, designed a multi-threaded crawler application in Python with PyQt, Requests, Selenium and Multiprocessing, reducing a man-day ↓ in every two weeks.
 
-- Built workflow tool-kits such as HTML automatic generator, email robot, mock testing, DAO helper, authentication module disassembled from 50k+ lines of VBA code, etc., promoted them in Nokia’s software development team.
+- Built workflow toolkits such as HTML automatic generator, email robot, mock testing, DAO helper, authentication module disassembled from 50k+ lines of VBA code, etc., and promoted them in Nokia’s software development team.
 
 ### RESEARCH EXPERIENCE
 
