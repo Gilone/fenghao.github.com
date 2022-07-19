@@ -42,9 +42,9 @@ Full-time Software Engineer, Scrum Master - R&D Center | Aug. 2020 – June 2021
 
 - Led a scrum team of eight members, originated Gatekeeper, a web application powering global team’s R&D closed-loop system by automating inspection and maintenance of design documents, and hold end-to-end ownership of it.
 
-- Designed the whole architecture of Gatekeeper, including back-end, front-end, testing and CI/CD, implemented it with React, Spring Boot and MongoDB, deployed vSphere and Jenkins services and dockerized them, serving 1k+ system engineers at Nokia’s network division.
+• Designed the whole architecture of Gatekeeper, including back-end, front-end, testing and CI/CD, implemented it with React, Spring Boot and MongoDB, deployed vSphere and Jenkins services and dockerized them, serving 1k+ system engineers at Nokia Networks division.
 
-- Devised and developed a RESTful file transfer proxy in Java with Jersey and Tomcat, opening a channel to extend the scope of authority and providing the foundation for services of the infrastructure team.
+• Devised and developed a RESTful file transfer proxy in Java with Jersey and Tomcat, opening a channel to extend the scope of authority and providing the foundation for the infrastructure team’s products.
 
 - Refactored the daily report-generating python scripts interacted with 100k+ Nokia’s employees records per day following Clean Code, optimized the structure by replacing redundant SQL queries with an independent LDAP traversal and maintenance service and introducing reusability and scalability by providing several APIs, reducing the average running time from 2h to 39s ↓.
 
@@ -54,7 +54,7 @@ Software Engineer Intern - R&D Center | Apr. 2020 -- June 2020
 
 - Devised a method to optimize workflow by collecting progress data of features from Power BI and Gerrit and generating slides automatically, designed a multi-threaded crawler application in Python with PyQt, Requests, Selenium and Multiprocessing, reducing a man-day ↓ in every two weeks.
 
-- Built workflow tool-kits such as HTML automatic generator, email robot, mock testing, DAO helper, authentication module disassembled from 50k+ lines of VBA code, etc., promoted them within infrastructure teams of Nokia.
+- Built workflow tool-kits such as HTML automatic generator, email robot, mock testing, DAO helper, authentication module disassembled from 50k+ lines of VBA code, etc., promoted them in Nokia’s software development team.
 
 ### RESEARCH EXPERIENCE
 
