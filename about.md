@@ -33,16 +33,16 @@ Software Engineer Intern - Cloud Infrastructure, Hyperforce | June 2022 -- Sep. 
 
 - Originated an event-driven service that periodically builds and destroys any service with orchestration and stamps a successful set of artifacts, increasing the confidence level of OaaS (Orchestration as a Service) Cloud Platform.
 
-- Built the service in Java, which submits RESTful requests through a web client based on Reactive Spring and tracks them with Amazon SQS, performing thorough rehearsals of building the services and powering all Salesforce deployments across multi-substrate (AWS, Azure, GCP, Alibaba, and Blackjack).
+- Built the service in Java, which submits RESTful requests through a web client based on Reactive Spring and tracks them with Amazon SQS, performing thorough rehearsals of building the services, avoiding 8% ↓ of pipeline failures and powering 630+ Salesforce deployments across multi-substrate (AWS, Azure, GCP, Alibaba, and Blackjack).
 
 #### Nokia
 
 Full-time Software Engineer, Scrum Master - R&D Center | Aug. 2020 – June 2021  
 **&#127941;Innovation Contributor Badge and Appreciate Excellence Award for five times**
 
-- Led a scrum team of eight members, originated Gatekeeper, a web application powering global team’s R&D closed-loop system by automating inspection and maintenance of design documents, and hold end-to-end ownership of it.
+- Led a scrum team of eight members, originated Gatekeeper, a web application powering global team’s R&D closed-loop system by automating inspection and maintenance of 20k+ design documents, and hold end-to-end ownership of it.
 
-- Designed the whole architecture of Gatekeeper, including back-end, front-end, testing and CI/CD, implemented it with React, Spring Boot and MongoDB, deployed vSphere and Jenkins services and dockerized them, serving 1k+ system engineers at Nokia Networks division.
+- Designed the whole architecture of Gatekeeper, including back-end, front-end, testing and CI/CD, implemented it with React, Spring Boot and MongoDB, deployed vSphere and Jenkins services and dockerized them, serving 1k+ system engineers at Nokia Networks division with 18k+ improvement suggestions.
 
 - Devised and developed a RESTful file transfer proxy in Java with Jersey and Tomcat, opening a channel to extend the scope of authority and providing the foundation for the infrastructure team’s products.
 
