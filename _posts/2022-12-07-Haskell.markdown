@@ -1,0 +1,39 @@
+---
+title: "Team Project: Splitwise-Haskell"
+layout: post
+date: 2022-12-07 16:45
+tag: 
+- Project
+image: https://play-lh.googleusercontent.com/xextMuNptM547SMenMUaywqIWmvqekf-9urJfXF2N45r-lYH0an-bjgFO9IYzqgSkOTU
+headerImage: true
+projects: true
+hidden: false # don't count this post in blog pagination
+description: Haskell Project
+category: project
+author: Hao Feng
+---
+
+Zhuo Zhi, Kaiqi Jin, Hao Feng, Ximin Chen
+
+## About
+
+Splitwise is used to simplify debts (a.k.a. “debt simplification”), which restructures debt within groups of people. It does not change the total amount that anyone owes, but it makes it easier to pay people back by minimizing the total number of payments.
+
+![1]({{site.url}}/assets/images/haskell/SplitWise-intro.png)  
+![2]({{site.url}}/assets/images/haskell/Splitwise-Algorithm.png)  
+![3]({{site.url}}/assets/images/haskell/Splitewise-screenshot.png)  
+
+## Code
+
+The code of our work can be found in this [GitHub Repository](https://github.com/zhuo-zhi/Splitwise-Haskell).
+
+## Document
+
+[Slides](https://github.com/zhuo-zhi/Splitwise-Haskell/blob/master/CSE230%20Splitwise.pptx)  
+
+## Reference
+
+Verhoeff, T. (2004). Settling multiple debts efficiently: An invitation to computing science. Informatics in Education, 3(1), 105-126.  
+K, M. M. (2020, January 4). Algorithm behind splitwise's debt simplification feature. Medium. Retrieved December 6, 2022, from [Medium](https://medium.com/@mithunmk93/algorithm-behind-splitwises-debt-simplification-feature-8ac485e97688)  
+The blogging gauntlet: May 10 - Splitwise is NP-complete. Sorta Insightful. (n.d.). Retrieved December 6, 2022, from [Blog](https://www.alexirpan.com/2016/05/10/may-10.html)  
+Wikimedia Foundation. (2022, November 28). Partition problem. Wikipedia. Retrieved December 6, 2022, from [Wiki](https://en.wikipedia.org/wiki/Partition_problem)
